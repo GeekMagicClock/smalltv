@@ -1,0 +1,1 @@
+V3.0.0 to V3.0.26 can be updated to this version, it's stable, bug reports are welcome.
