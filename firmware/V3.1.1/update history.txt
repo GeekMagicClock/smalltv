@@ -1,7 +1,0 @@
-V3.1.1 20230827
-1) Small fix, when play the "fack" gif file, which contains no gif content, will cause system reboot.
-
-V3.1.0 20230827
-The new and stable version, with 13 languages on the web.
-
-Due to software structure reason, old firmware earlier than this version is not supported update to this version.

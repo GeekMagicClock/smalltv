@@ -1,0 +1,6 @@
+For version earlier than V3.0.33 can only be updated to V3.0.33, if you update it to V3.1.X, there will be 404 error if you visit the web console.
+Still you can update it back, via http://ip_of_your_clock/update.
+
+V3.0.X has different software structure with the V3.1.X, they should not be updated to each other.
+
+Thank you.
